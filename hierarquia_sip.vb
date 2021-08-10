@@ -29,7 +29,7 @@ Set hierarquia = New Selenium.ChromeDriver
 With hierarquia
 
     .Start
-    .Get "https://sei.infraestrutura.gov.br/sip/login.php?sigla_orgao_sistema=MINFRA&sigla_sistema=SIP"
+    .Get "https://sei.xxxxxxxxxxxx.gov.br/sip/login.php?sigla_orgao_sistema=xxxxxxxxx&sigla_sistema=SIP"
     
     
     ' Login
