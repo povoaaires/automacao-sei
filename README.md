@@ -4,7 +4,7 @@ Neste repositório deixo registrado alguns scripts desenvolvidos em Visual Basic
 1- Cadastrar Usuários</br>
 2- Cadastrar Unidades</br>
 3- Montar uma Hierarquia</br>
-4- Cadastrar Assinaturas</br>
+4- Atribuição de Assinaturas</br>
 5- Cadastrar Informações adicionais das Unidades</br></br>
 </p>
 
