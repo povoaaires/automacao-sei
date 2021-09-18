@@ -20,3 +20,8 @@ Neste repositório deixo registrado alguns scripts desenvolvidos em Visual Basic
 <p>Pressione Alt + F11 (Visual Basic Editor) -> Ferramentas -> Referencias -> Procure a library: Selenium Type Library e selecione. Feito isso agora é só desenvolver </p>
 
 </div>
+
+# Modelo de Arquivo para automação
+<div> É necessário inserir os scripts no modelo de arquivo .xlsm disponibilizado no repositório, caso contrário, o script terá de ser adaptado (será preciso remapear os campos) a um arquivo já existente e de sua preferência. 
+  
+</div>
